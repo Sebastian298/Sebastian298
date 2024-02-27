@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **.NET Web API, Azure Funtions, Js ES6**
 
-- 📫 How to reach me **jaime.tenorio@outlook.com**
+- 📫 How to reach me **jaimetenoriorios@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
