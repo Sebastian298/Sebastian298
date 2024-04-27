@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime Tenorio</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Typescript, React Js**
+- 🌱 I’m currently learning **Typescript, React Js and Flutter**
 
 - 💬 Ask me about **.NET Web API, Azure Funtions, Js ES6**
 
