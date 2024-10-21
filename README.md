@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime Tenorio</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Typescript, React Js and Flutter**
+- 🌱 I’m currently learning **Typescript and Vue Js**
 
-- 💬 Ask me about **.NET Web API, Azure Funtions, Js ES6**
+- 💬 Ask me about **.NET Web API, Azure Funtions, Js ES6, Python**
 
 - 📫 How to reach me **jaimetenoriorios@outlook.com**
 
